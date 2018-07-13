@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* https://gentle-ravine-10001.herokuapp.com/students
